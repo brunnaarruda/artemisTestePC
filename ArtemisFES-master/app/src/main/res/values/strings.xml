@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ártemis</string>
+    <string name="title_activity_home">Ártemis</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="CPFinput">CPF</string>
+    <string name="Senhainput">Senha</string>
+    <string name="Nomeinput">Nome</string>
+    <string name="ConfirmarSenhainput">Confirmar Senha</string>
+    <string name="title_activity_sub_eventos">SubEventosActivity</string>
+    <string name="title_activity_configuracoes">Configurações</string>
+    <string name="title_activity_alterar_senha">Alterar Senha</string>
+    <string name="title_activity_esqueci_senha">EsqueciSenhaActivity</string>
+
+</resources>
